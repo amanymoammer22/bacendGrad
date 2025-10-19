@@ -1,0 +1,483 @@
+[
+    {
+        "title": "traditinal dress",
+        "slug": "traditinal-dress",
+        "quantity": 10,
+        "price": 140,
+        "priceAfterDiscount": 89.9,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Jerusalem Embroidered Thobe in red and gold threads",
+        "category": "68bf634217e837116ad62308",
+        "imageCover": "imgdress1.jpg",
+        "ratingsAverage": 4.3,
+        "ratingsQuantity": 20,
+        "hasSize": true
+    },
+    
+    {
+        "title": "traditinal dress",
+        "slug": "traditinal-dress",
+        "quantity": 10,
+        "price": 115,
+        "priceAfterDiscount": 89.9,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Elegant Thobe inspired by Jerusalem heritage designs",
+        "category": "68bf634217e837116ad62308",
+        "imageCover": "imgdress3.jpg",
+        "ratingsAverage": 4.3,
+        "ratingsQuantity": 20,
+        "hasSize": true
+    },
+    {
+        "title": "Caultural accessories Collection",
+        "slug": "Caultural-accessories-collection",
+        "quantity": 104,
+        "sold": 9,
+        "price": 160,
+        "description": "A stylish bracelet inspired by the traditional Palestinian keffiyeh, symbolizing pride and identity.",
+       "size": [],
+        "category": "68bf635417e837116ad6230a",
+        "imageCover": "acImg8.jpg",
+        "ratingsAverage": 1.6,
+        "ratingsQuantity": 5 ,
+        "hasSize": false
+    },
+    {
+        "title": "Hoodes",
+        "slug": "hoodes",
+        "quantity": 104,
+        "sold": 9,
+        "price": 140,
+        "description": "Cozy hoodie for casual outings",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "category": "68bf635f17e837116ad6230c",
+        "imageCover": "hoode5.jpg",
+        "ratingsAverage": 1.6,
+        "ratingsQuantity": 5 ,
+        "hasSize": true
+    },
+    {
+        "title": "Hoodes",
+        "slug": "hoodes",
+        "quantity": 104,
+        "sold": 9,
+        "price": 145,
+        "description": "Premium hoodie with Palestine embroidery detail",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "category": "68bf635f17e837116ad6230c",
+        "imageCover": "hoode6.jpg",
+        "ratingsAverage": 1.6,
+        "ratingsQuantity": 5,
+        "hasSize": true
+    },
+    {
+        "title": "Caultural accessories Collection",
+        "slug": "Caultural-accessories-collection",
+        "quantity": 104,
+        "sold": 9,
+        "price": 160,
+        "description": " Protective phone case with the iconic Palestinian keffiyeh pattern, combining style and identity.",
+       "size": [],
+        "category": "68bf635417e837116ad6230a",
+        "imageCover": "acImg9.png",
+        "ratingsAverage": 1.6,
+        "ratingsQuantity": 5,
+        "hasSize": false
+    }
+    ,
+    {
+        "title": "traditinal dress",
+        "slug": "traditinal-dress",
+        "quantity": 10,
+        "price": 180,
+        "priceAfterDiscount": 89.9,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Premium embroidered Thobe with traditional motifs",
+        "category": "68bf634217e837116ad62308",
+        "imageCover": "imgdress4.jpg",
+        "ratingsAverage": 4.3,
+        "ratingsQuantity": 20,
+        "hasSize": true
+    },
+    {
+        "title": "traditinal dress",
+        "slug": "traditinal-dress",
+        "quantity": 10,
+        "price": 190,
+        "priceAfterDiscount": 89.9,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Handcrafted Thobe from authentic Jerusalem fabrics",
+        "category": "68bf634217e837116ad62308",
+        "imageCover": "imgdress5.jpg",
+        "ratingsAverage": 4.3,
+        "ratingsQuantity": 20,
+        "hasSize": true
+    },
+    {
+        "title": "traditinal dress",
+        "slug": "traditinal-dress",
+        "quantity": 10,
+        "price": 200,
+        "priceAfterDiscount": 89.9,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Luxury Thobe embroidered with gold accents",
+        "category": "68bf634217e837116ad62308",
+        "imageCover": "imgdress6.jpg",
+        "ratingsAverage": 4.3,
+        "ratingsQuantity": 20,
+        "hasSize": true
+    },
+    {
+        "title": "traditinal dress",
+        "slug": "traditinal-dress",
+        "quantity": 10,
+        "price": 105,
+        "priceAfterDiscount": 89.9,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Simple yet stylish Thobe for daily wear",
+        "category": "68bf634217e837116ad62308",
+        "imageCover": "imgdress7.jpg",
+        "ratingsAverage": 4.3,
+        "ratingsQuantity": 20,
+        "hasSize": true
+
+    },
+
+    {
+        "title": "Hoodes",
+        "slug": "hoodes",
+        "quantity": 104,
+        "sold": 9,
+        "price": 130,
+        "description": "Comfortable hoodie with Palestine map print",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "category": "68bf635f17e837116ad6230c",
+        "imageCover": "hoode3.png",
+        "ratingsAverage": 1.6,
+        "ratingsQuantity": 5,
+        "hasSize": true
+    },
+    {
+        "title": "Hoodes",
+        "slug": "hoodes",
+        "quantity": 104,
+        "sold": 9,
+        "price": 135,
+        "description": "Stylish hoodie perfect for everyday wear",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "category": "68bf635f17e837116ad6230c",
+        "imageCover": "hoode4.jpg",
+        "ratingsAverage": 1.6,
+        "ratingsQuantity": 5,
+        "hasSize": true
+    },
+   
+    {
+        "title": "Hoodes",
+        "slug": "hoodes",
+        "quantity": 104,
+        "sold": 9,
+        "price": 150,
+        "description": "Classic hoodie with map print, ideal for gifting",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "category": "68bf635f17e837116ad6230c",
+        "imageCover": "hoode7.jpg",
+        "ratingsAverage": 1.6,
+        "ratingsQuantity": 5,
+        "hasSize": true
+    },
+    {
+        "title": "Hoodes",
+        "slug": "hoodes",
+        "quantity": 104,
+        "sold": 9,
+        "price": 155,
+        "description": "Soft hoodie for all-day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "category": "68bf635f17e837116ad6230c",
+        "imageCover": "hoode8.jpg",
+        "ratingsAverage": 1.6,
+        "ratingsQuantity": 5,
+        "hasSize": true
+    },
+    {
+        "title": "Hoodes",
+        "slug": "hoodes",
+        "quantity": 104,
+        "sold": 9,
+        "price": 160,
+        "description": "Urban style hoodie with Palestine design",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "category": "68bf635f17e837116ad6230c",
+        "imageCover": "hoode9.png",
+        "ratingsAverage": 1.6,
+        "ratingsQuantity": 5,
+        "hasSize": true
+    }
+    ,
+    {
+        "title": "Caultural accessories Collection",
+        "slug": "Caultural-accessories-collection",
+        "quantity": 104,
+        "sold": 9,
+        "price": 160,
+        "description": " Luxurious gold-plated necklace featuring the map of Palestine engraved with the word “Palestine.” ",
+        "size": [],
+        "category": "68bf635417e837116ad6230a",
+        "imageCover": "acImg1.png",
+        "ratingsAverage": 1.6,
+        "ratingsQuantity": 5,
+        "hasSize": false
+    }
+    ,
+    {
+        "title": "Caultural accessories Collection",
+        "slug": "Caultural-accessories-collection",
+        "quantity": 104,
+        "sold": 9,
+        "price": 160,
+        "description": "Creative keychain featuring the keffiyeh pattern with a small watermelon charm, symbolizing Palestinian pride.",
+       "size": [],
+        "category": "68bf635417e837116ad6230a",
+        "imageCover": "acImg2.png",
+        "ratingsAverage": 1.6,
+        "ratingsQuantity": 5,
+        "hasSize": false
+    }
+    ,
+    {
+        "title": "Caultural accessories Collection",
+        "slug": "Caultural-accessories-collection",
+        "quantity": 104,
+        "sold": 9,
+        "price": 160,
+        "description": "A golden necklace with a delicate star design, adding a touch of elegance to your look.",
+       "size": [],
+         "category": "68bf635417e837116ad6230a",
+        "imageCover": "acImg3.png",
+        "ratingsAverage": 1.6,
+        "ratingsQuantity": 5,
+        "hasSize": false
+    }
+    ,
+    {
+        "title": "Caultural accessories Collection",
+        "slug": "Caultural-accessories-collection",
+        "quantity": 104,
+        "sold": 9,
+        "price": 160,
+        "description": "A unique hair tie made from keffiyeh fabric, blending modern style with cultural heritage.",
+      "size": [],
+        "category": "68bf635417e837116ad6230a",
+        "imageCover": "acImg4.jpg",
+        "ratingsAverage": 1.6,
+        "ratingsQuantity": 5,
+        "hasSize": false
+    }
+    ,
+    {
+        "title": "Caultural accessories Collection",
+        "slug": "Caultural-accessories-collection",
+        "quantity": 104,
+        "sold": 9,
+        "price": 160,
+        "description": "Elegant necklace in the shape of Palestine’s map, representing belonging and solidarity.",
+       "size": [],
+        "category": "68bf635417e837116ad6230a",
+        "imageCover": "acImg5.jpg",
+        "ratingsAverage": 1.6,
+        "ratingsQuantity": 5,
+        "hasSize": false
+    }
+    ,
+    {
+        "title": "Caultural accessories Collection",
+        "slug": "Caultural-accessories-collection",
+        "quantity": 104,
+        "sold": 9,
+        "price": 160,
+        "description": "A round pendant necklace with the Dome of the Rock and Palestinian flag, symbolizing Jerusalem and resistance.",
+       "size": [],
+        "category": "68bf635417e837116ad6230a",
+        "imageCover": "acImg6.png",
+        "ratingsAverage": 1.6,
+        "ratingsQuantity": 5,
+        "hasSize": false
+    }
+    ,
+    {
+        "title": "Caultural accessories Collection",
+        "slug": "Caultural-accessories-collection",
+        "quantity": 104,
+        "sold": 9,
+        "price": 160,
+        "description": " Elegant bracelet shaped like the map of Palestine, accented with small details in Palestinian flag colors.",
+       "size": [],
+        "category": "68bf635417e837116ad6230a",
+        "imageCover": "acImg7.png",
+        "ratingsAverage": 1.6,
+        "ratingsQuantity": 5,
+        "hasSize": false
+    }
+    ,
+    {
+        "title": "traditinal dress",
+        "slug": "traditinal-dress",
+        "quantity": 10,
+        "price": 110,
+        "priceAfterDiscount": 89.9,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Colorful Thobe with unique Jerusalem embroidery",
+        "category": "68bf634217e837116ad62308",
+        "imageCover": "imgdress8.jpg",
+        "ratingsAverage": 4.3,
+        "ratingsQuantity": 20,
+        "hasSize": true
+    },
+    {
+        "title": "traditinal dress",
+        "slug": "traditinal-dress",
+        "quantity": 10,
+        "price": 100,
+        "priceAfterDiscount": 89.9,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Comfortable Thobe suitable for festive occasions",
+        "category": "68bf634217e837116ad62308",
+        "imageCover": "imgdress9.jpg",
+        "ratingsAverage": 4.3,
+        "ratingsQuantity": 20,
+        "hasSize": true
+    },
+    {
+        "title": "Hoodes",
+        "slug": "hoodes",
+        "quantity": 104,
+        "sold": 9,
+        "price": 120,
+        "description": "Palestine map hoodie in black, cozy and warm",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "category": "68bf635f17e837116ad6230c",
+        "imageCover": "hoode1.jpg",
+        "ratingsAverage": 1.6,
+        "ratingsQuantity": 5,
+        "hasSize": true
+    },
+    {
+        "title": "Hoodes",
+        "slug": "hoodes",
+        "quantity": 104,
+        "sold": 9,
+        "price": 125,
+        "description": "Palestine map hoodie in gray, soft fleece inside",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "category": "68bf635f17e837116ad6230c",
+        "imageCover": "hoode2.jpg",
+        "ratingsAverage": 1.6,
+        "ratingsQuantity": 5,
+        "hasSize": true
+    },
+    {
+        "title": "traditinal dress",
+        "slug": "traditinal-dress",
+        "quantity": 10,
+        "price": 125,
+        "priceAfterDiscount": 89.9,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Classic Jerusalem Thobe with intricate embroidery patterns",
+        "category": "68bf634217e837116ad62308",
+        "imageCover": "imgdress2.jpg",
+        "ratingsAverage": 4.3,
+        "ratingsQuantity": 20,
+        "hasSize": true
+    }
+]
