@@ -27,10 +27,14 @@ const app = express();
 
 app.use(
     cors({
-        origin: "http://localhost:5173",
-        credentials: true, 
+        origin: [
+            "http://localhost:5173",
+            "https://turathna.netlify.app",
+        ],
+        credentials: true,
     }),
 );
+
 
 // app.options("/.*/", cors());
 
