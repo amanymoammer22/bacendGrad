@@ -79,14 +79,18 @@ exports.addProductToCart = asyncHandler(async (req, res, next) => {
            item.quantity += 1;
             item.imageCover = pickImage(product);
             cart.cartItems[idx] = item;
-        } else {
+        }
+        else {
+            if (product.quantity < 1) {
+                return next(new ApiError("Not enough stock available for this product", 400));
+            }
             cart.cartItems.push({
                 product: productId,
                 size: finalSize,
                 price: effectivePrice,
                 imageCover: pickImage(product),
-            });
-        }
+  });
+}
     }
 
     await calcTotalCartPrice(cart);
