@@ -25,15 +25,25 @@ const app = express();
 // Enable other domains to access your application
 // app.use(cors());
 
+// Enable CORS for frontend domains
 app.use(
-    cors({
-        origin: [
-            "http://localhost:5173",
-            "https://turathna.netlify.app",
-        ],
-        credentials: true,
-    }),
+  cors({
+    origin: ["http://localhost:5173", "https://turathna.netlify.app"],
+    methods: ["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"],
+    allowedHeaders: ["Content-Type", "Authorization"],
+    credentials: true,
+  })
 );
+
+// app.use(
+//     cors({
+//         origin: [
+//             "http://localhost:5173",
+//             "https://turathna.netlify.app",
+//         ],
+//         credentials: true,
+//     }),
+// );
 
 
 // app.options("/.*/", cors());
